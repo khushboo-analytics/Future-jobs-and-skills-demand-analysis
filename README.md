@@ -1,12 +1,13 @@
-# 📊 Future Jobs & Skills Demand Analysis (2025)
+# 📊 Future Jobs, Skills Demand & Hiring Churn Analysis (2025)
 
 ### *EDA + Hiring Churn Analysis*
 
 ## 📌 Project Overview
 
-This project analyzes **future job market trends for 2025**, focusing on **job demand, salary distribution, skills requirements, remote work trends, and hiring churn** across emerging industries.
+The job market in 2025 is being reshaped by rapid technological advancements, remote work adoption, and shifting skill requirements.
+This project analyzes *future job demand, skill trends, salary patterns, and hiring churn* using a *synthetic dataset* modeled on high-growth industries.
 
-The analysis is performed using **SQL (MySQL)** for data exploration and metric computation, and is designed to simulate **real-world hiring and talent demand behavior**.
+The goal of this project is to demonstrate *end-to-end data analysis skills* — from SQL-based exploration to *interactive Power BI dashboards* — while answering real-world business questions relevant to workforce planning and talent strategy.
 
 > ⚠️ **Note:** The dataset used in this project is **synthetic**, sourced from Kaggle, and created to simulate realistic job market patterns.
 > No real company or job posting data is used.
@@ -183,6 +184,52 @@ Most frequently required skills:
 * **SQL (MySQL)** – Data cleaning, EDA, KPI computation
 * **Power BI** – Dashboarding & visualization *(optional extension)*
 * **GitHub** – Version control & project documentation
+
+---
+## 📊 Power BI Dashboard Structure
+
+### 📄 Page 1: Executive Overview
+
+* Total Job Postings
+* Average Salary
+* % Remote Jobs
+* Hiring Churn %
+* Jobs by Industry
+* Company Size Distribution
+
+### 📄 Page 2: Job Market Analysis
+
+* Monthly hiring trends
+* Top hiring locations
+* Industry vs company size hiring patterns
+
+### 📄 Page 3: Skills Demand Analysis
+
+* Top 15 in-demand skills
+* Skill demand by industry
+* Skills required for remote jobs
+
+### 📄 Page 4: Salary & Remote Insights
+
+* Average salary by industry
+* Highest-paying job roles
+* Salary comparison: Remote vs Onsite
+
+### 📄 Page 5: Churn Analysis
+
+* Active vs churned hiring entities
+* Hiring churn by industry
+* Hiring churn by company size
+* Skills showing demand attrition
+
+---
+##  Repository Structure
+
+📦 Future-Jobs-Churn-Analysis
+ ┣ 📄 README.md
+ ┣ 📄 future_jobs_eda_and_churn_analysis.sql
+ ┣ 📄 future_jobs_dataset.csv
+ ┣ 📊 PowerBI_Dashboard.pbix
 
 ---
 
