@@ -223,6 +223,7 @@ Most frequently required skills:
 * Skills showing demand attrition
 
 ---
+
 ## 📈 Dashboard Pages
 
 ### 1️⃣ Executive Overview
@@ -239,6 +240,7 @@ Most frequently required skills:
 
 ### 5️⃣ Hiring Churn Analysis
 ![Churn Analysis](page5_churn_analysis.png)
+
 
 ---
 
