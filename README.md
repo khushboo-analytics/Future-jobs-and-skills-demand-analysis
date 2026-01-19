@@ -233,8 +233,7 @@ Most frequently required skills:
 ![Job Market Analysis](page2_job_market.png)
 
 ### 3️⃣ Skills Demand Analysis
-![Skills Demand Analysis](<img width="1333" height="727" alt="page3_skills_demand_edited" src="https://github.com/user-attachments/assets/cc4a50d0-9bed-4ba8-b273-7d17cf23c704" />
-)
+![Skills Demand Analysis](page3_skill_demand.png)
 
 ### 4️⃣ Salary & Remote Insights
 ![Salary & Remote Insights](page4_salary_remote.png)
