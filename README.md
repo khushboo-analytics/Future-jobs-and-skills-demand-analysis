@@ -223,6 +223,25 @@ Most frequently required skills:
 * Skills showing demand attrition
 
 ---
+## 📈 Dashboard Pages
+
+### 1️⃣ Executive Overview
+![Executive Overview](images/page1_executive_overview.png)
+
+### 2️⃣ Job Market Analysis
+![Job Market Analysis](images/page2_job_market.png)
+
+### 3️⃣ Skills Demand Analysis
+![Skills Demand Analysis](images/page3_skills_demand.png)
+
+### 4️⃣ Salary & Remote Insights
+![Salary & Remote Insights](images/page4_salary_remote.png)
+
+### 5️⃣ Hiring Churn Analysis
+![Churn Analysis](images/page5_churn_analysis.png)
+
+---
+
 ##  Repository Structure
 
 📦 Future-Jobs-Churn-Analysis
