@@ -226,7 +226,7 @@ Most frequently required skills:
 ## 📈 Dashboard Pages
 
 ### 1️⃣ Executive Overview
-![Executive Overview](images/page1_executive_overview.png)
+![Executive Overview](page1_executive_overview.png)
 
 ### 2️⃣ Job Market Analysis
 ![Job Market Analysis](images/page2_job_market.png)
