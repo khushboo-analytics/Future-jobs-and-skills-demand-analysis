@@ -224,22 +224,7 @@ Most frequently required skills:
 
 ---
 
-## 📈 Dashboard Pages
 
-### 1️⃣ Executive Overview
-![Executive Overview](page1_executive_overview.png)
-
-### 2️⃣ Job Market Analysis
-![Job Market Analysis](page2_job_market.png)
-
-### 3️⃣ Skills Demand Analysis
-![Skills Demand Analysis](page3_skill_demand.png)
-
-### 4️⃣ Salary & Remote Insights
-![Salary & Remote Insights](page4_salary_remote.png)
-
-### 5️⃣ Hiring Churn Analysis
-![Churn Analysis](page5_churn_analysis.png)
 
 
 ---
